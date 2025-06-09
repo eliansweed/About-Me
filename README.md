@@ -1,8 +1,6 @@
 #🔐 "I don't just protect systems — I understand how they break."#
 
-
 # 👋 Hi, I'm Elian Sweed
-
 I'm a cybersecurity enthusiast from 🇮🇱 Israel, passionate about Linux, scripting, and securing systems from real-world threats.
 
 ## 🐧 My Journey
@@ -34,7 +32,7 @@ After completing my military service, I joined a cybersecurity course at **Kerni
 🖥️ *"Secure systems aren't just built—they're earned."*  
 Explore my repos or reach out if you want to collaborate!
 ---
-Connect:
+## Connect:
 You can find me on
 -[LinkedIn](www.linkedin.com/in/elian-sweed-78854b364).
 -Email eliansweed1@gmail.com.
