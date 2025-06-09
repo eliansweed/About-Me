@@ -33,3 +33,9 @@ After completing my military service, I joined a cybersecurity course at **Kerni
 
 🖥️ *"Secure systems aren't just built—they're earned."*  
 Explore my repos or reach out if you want to collaborate!
+---
+Connect:
+You can find me on
+-[LinkedIn](www.linkedin.com/in/elian-sweed-78854b364)
+-Email eliansweed1@gmail.com
+-[Website](elianhost.site)
